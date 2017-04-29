@@ -1,7 +1,7 @@
 # Gridi Framework Videos
 
 ## Install
-`brew install gridi-framework-videos`
+`bower install gridi-framework-videos`
 
 ## Licence
 
