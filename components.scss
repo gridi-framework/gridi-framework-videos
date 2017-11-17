@@ -1,0 +1,6 @@
+video {
+    display: $video-display;
+    max-width: $video-max-width;
+    vertical-align: $video-vertical-align;
+    @include video-extra-style();
+}
